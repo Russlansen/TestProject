@@ -1,0 +1,160 @@
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\csc.exe
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\csc.exe.config
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\csc.rsp
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\csi.exe
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\csi.exe.config
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\csi.rsp
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.AppContext.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Console.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\vbc.exe
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\vbc.exe.config
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\vbc.rsp
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\TestProject.dll.config
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\TestProject.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\TestProject.pdb
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Helpers.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Mvc.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Razor.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Webpages.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Razor.xml
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Webpages.xml
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Helpers.xml
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\System.Web.Mvc.xml
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\EntityFramework.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\EntityFramework.xml
+C:\Users\Russl\Documents\Visual Studio 2017\Projects\TestProject\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\csc.exe
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\csc.exe.config
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\csc.rsp
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\csi.exe
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\csi.exe.config
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\csi.rsp
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.AppContext.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Console.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\vbc.exe
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\vbc.exe.config
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\vbc.rsp
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\TestProject.dll.config
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\TestProject.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\TestProject.pdb
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\EntityFramework.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Helpers.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Mvc.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Razor.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Webpages.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\EntityFramework.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Razor.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Webpages.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Helpers.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\System.Web.Mvc.xml
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Russl\Source\Repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Russl\Source\Repos\TestProject\TestProject\obj\Debug\TestProject.dll
+C:\Users\Russl\Source\Repos\TestProject\TestProject\obj\Debug\TestProject.pdb

@@ -1,0 +1,42 @@
+﻿@model TestProject.ViewModels.IndexHomeViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Подписка на обновления</h2>
+<h4>Отметьте категории по которым хотите получать обновления</h4>
+
+@using (Html.BeginForm("Action", "Home"))
+{
+    <table class="table table-striped">
+        <tr>
+            <td>Автомобили</td>
+            <td>@Html.CheckBoxFor(x => x.Autos)</td>
+        </tr>
+        <tr>
+            <td>Недвижимость</td>
+            <td>@Html.CheckBoxFor(x => x.Immovables)</td>
+        </tr>
+        <tr>
+            <td>Домашние животные</td>
+            <td>@Html.CheckBoxFor(x => x.Pets)</td>
+        </tr>
+        <tr>
+            <td>Картины</td>
+            <td>@Html.CheckBoxFor(x => x.Pictures)</td>
+        </tr>
+        <tr>
+            <td>Введите E-mail чтобы получать уведомления</td>
+            <td>@Html.TextBoxFor(x => x.E_mail, new { type = "email" })</td>
+        </tr>
+        <tr>
+            <td><input class="btn btn-default" type="submit" value="Отправить" /> </td>
+            <td></td>
+        </tr>
+    </table>
+    <p class="text-info">@ViewBag.Message</p>
+}
+
+
+    
+
