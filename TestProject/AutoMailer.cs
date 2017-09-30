@@ -19,6 +19,8 @@ namespace TestProject
                 string sqlDateString = String.Format("{0}-{1}-{2}T{3}", lastDay.Year, lastDay.Month,
                                                                         lastDay.Day, lastDay.ToLongTimeString());
                 var logs = db.Log.Where(x => x.Time.ToString().CompareTo(sqlDateString) >= 0);
+                if (logs.Count() == 0)
+                    return;
                 var subscribers = db.Subscribers;
                 var from = new MailAddress("tt9713283@gmail.com", "Рассылка");
                 MailMessage message = null;
